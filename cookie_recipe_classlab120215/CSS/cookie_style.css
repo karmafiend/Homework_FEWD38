@@ -1,0 +1,17 @@
+body {
+  background-color: #FFE;
+}
+
+#nutrition {
+  color: #887
+}
+
+a {
+  color: #900
+}
+
+p.solid {
+  border-style: solid;
+  border-color: #900;
+  border-width: 10px;
+}
