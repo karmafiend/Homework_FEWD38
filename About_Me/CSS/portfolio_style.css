@@ -1,0 +1,71 @@
+body {
+  background-color: #000000;
+}
+
+.header {
+  border-top: 7px solid #FFFFFF;
+  border-bottom: 3px dashed #FFFFFF;
+  color: #FFFFFF;
+  font-family: "Verdana", Times, serif;
+  text-align: center;
+  width: 100%;
+  padding: 20px 0 20px 0;
+  margin-bottom: 40px;
+  clear:both;
+}
+
+.aside {
+  border: 1px solid #FFFFFF;
+  color: #FFFFFF;
+  font-family: "Verdana", Times, serif;
+  text-align: left;
+  width: 70%;
+  padding-bottom: 111px;
+  float: left;
+}
+
+.section {
+  border: 1px solid #FFFFFF;
+  color: #FFFFFF;
+  font-family: "Verdana", Times, serif;
+  text-align: left;
+  width: 29.5%;
+  margin-bottom: 40px;
+  margin-left: 2px;
+  float: right;
+}
+
+.footer {
+  color: #FFFFFF;
+  font-family: "Verdana", Times, serif;
+  text-align: left;
+  width: 100%;
+  padding: 0 20px 20px 20px;
+  clear: both;
+}
+
+a {
+  font-family: "Verdana", Times, serif;
+  font-size: 22px;
+  color: #909090;
+  padding-right: 10px;
+}
+
+.Italic {
+  font-family: Arial;
+  font-size: 22px;
+  font-style: Italic;
+
+}
+
+.Name_Bold {
+  font-family: Lucida Console;
+  font-size: 48px;
+  font-style: Bold;
+}
+
+.Job_Title {
+  font-family: Lucida Console;
+  font-style: Bold;
+  font-size: 26px;
+}

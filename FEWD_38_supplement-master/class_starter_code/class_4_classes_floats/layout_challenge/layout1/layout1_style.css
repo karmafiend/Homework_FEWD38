@@ -1,0 +1,21 @@
+.header {
+  color: red;
+  width: 100%;
+}
+
+.section {
+  color: blue;
+  width: 70%;
+  float: left;
+}
+
+.aside {
+  color: green;
+  width: 30%;
+  float: right;
+}
+
+.footer {
+  color: black;
+  width: 100%;
+}

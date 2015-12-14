@@ -1,0 +1,78 @@
+body {
+  background-color: #000000;
+}
+
+.header {
+  border-top: 7px solid #FFFFFF;
+  border-bottom: 3px dashed #FFFFFF;
+  color: #FFFFFF;
+  font-family: "Verdana", Times, serif;
+  text-align: center;
+  width: 100%;
+  padding: 20px 0 20px 0;
+  margin-bottom: 40px;
+}
+
+.aside {
+  border: 1px solid #FFFFFF;
+  color: #FFFFFF;
+  font-family: "Verdana", Times, serif;
+  text-align: left;
+  width: 70%;
+  padding-bottom: 111px;
+  float: left;
+}
+
+.section {
+  border: 1px solid #FFFFFF;
+  color: #FFFFFF;
+  font-family: "Verdana", Times, serif;
+  text-align: left;
+  width: 29.5%;
+  margin-left: 2px;
+  padding-bottom: 179px;
+  float: right;
+}
+
+.footer {
+  border: 1px solid #FFFFFF;
+  color: #FFFFFF;
+  font-family: "Verdana", Times, serif;
+  text-align: left;
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  clear: both;
+}
+
+p {
+color: #FFFFFF;
+font-family: "verdana", Times New Roman, serif;
+font-size: 18px;
+text-align: center;
+}
+
+a {
+  font-family: "Verdana", Times, serif;
+  font-size: 22px;
+  color: #909090;
+  padding-right: 10px;
+}
+
+.Italic {
+  font-family: Arial;
+  font-size: 30px;
+  font-style: Italic;
+
+}
+
+.Name_Bold {
+  font-family: Lucida Console;
+  font-size: 48px;
+  font-style: Bold;
+
+ul {
+  color: #FFFFFF;
+  font-family: "Verdana", Times New Roman, serif;
+  font-size: 16px;
+}

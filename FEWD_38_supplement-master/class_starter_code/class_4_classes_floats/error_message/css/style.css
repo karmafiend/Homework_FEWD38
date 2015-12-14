@@ -1,0 +1,19 @@
+.notification {
+  font-weight: bold;
+  font-style: italic;
+  fonts-size: 16px;
+}
+
+.messages.error {
+  color: yellow;
+}
+
+.messages {
+  text-decoration: underline;
+  color: blue;
+  font-size: 36px;
+  font-style: italic;
+}
+.error {
+  color: red;
+}
