@@ -1,0 +1,183 @@
+
+
+body {
+  background-color: #d3d3d3;
+  margin: 0px;
+  height: 592px;
+}
+
+header {
+  background-color: #000000;
+  border-bottom: 2px solid #ffff00;
+  height: 90px;
+  width: 100%;
+}
+
+a {
+  font-family: "Verdana", Times, serif;
+}
+
+a:link {
+  color: #FFFFFF;
+}
+
+a:visited {
+  color: #0066ff;
+}
+
+a:hover {
+  color: #00b359;
+}
+
+a:active {
+  color: #ff0000;
+}
+
+.logo {
+  display: inline-block;
+  color: #ffff00;
+  font-family: "Georgia", Times, serif;
+  vertical-align: top;
+  margin: 0;
+  font-size: 35px;
+}
+
+nav {
+  float: right;
+  width: 80%;
+}
+
+.nav-item {
+  float: left;
+  width: 25%;
+  color: #ffffff;
+  text-align: right;
+  font-family: "Verdana", Times, serif;
+  font-weight: bold;
+  padding-top: 10px;
+}
+
+.nav-item2 {
+  float: left;
+  width: 15%;
+  color: #ffffff;
+  text-align: right;
+  font-family: "Verdana", Times, serif;
+  padding-top: 10px;
+}
+
+.headline {
+  height: 60px;
+  width: 100%;
+  background-color: #A9A9A9;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 60px;
+  font-style:italic;
+  font-family: "Verdana", Times, serif;
+}
+
+.taste {
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #C0C0C0;
+}
+
+.section_lg {
+ /*display: inline-block;*/
+}
+
+.callout_lg {
+  background-color: rgba(255, 255, 255, 0.7);
+  border: 1px solid #000000;
+  height: 375px;
+  width: 250px;
+  float: right;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 20px;
+  font-family: "Verdana", Times, serif;
+  box-shadow: 2px 2px 1px #888888;
+}
+
+.image {
+  background-image: url("../coworking.jpg");
+  background-size: cover;
+  height: 400px;
+  padding: 20px;
+}
+
+.button1 {
+  margin-top: 80px;
+  height: 40px;
+  border-radius: 4px;
+  background-color: #ffff00;
+  width: 200px;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.box1 {
+  float: left;
+  height: 150px;
+  width: 26%;
+  border-right: 1px solid #a9a9a9;
+  margin-left: 35px;
+  margin-right: 25px;
+  margin-top: 15px;
+  padding-right: 35px;
+  font-family: "Verdana", Times, serif;
+}
+
+.box2 {
+  float: left;
+  height: 150px;
+  width: 26%;
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-right: 25px;
+  font-family: "Verdana", Times, serif;
+}
+
+.box3 {
+  float: left;
+  height: 150px;
+  width: 26%;
+  border-left: 1px solid #a9a9a9;
+  margin-top: 15px;
+  margin-left: 25px;
+  margin-right: 25px;
+  padding-left: 35px;
+  font-family: "Verdana", Times, serif;
+}
+
+.button2 {
+  height: 30px;
+  border-radius: 4px;
+  background-color: #a9a9a9;
+  width: 200px;
+  font-weight: bold;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.box_text {
+  text-wrap: normal;
+}
+
+.section_sm {
+  height: 220px;
+  width: 100%;
+  clear: both;
+  background-color: #ffffff;
+}
+
+footer {
+  background-color: #000000;
+  color: #FFFFFF;
+  width: 99.8%;
+  height: 50px;
+  font-family: "Georgia", Times, serif;
+  display: inline-block;
+  padding-left: 10px;
+}
